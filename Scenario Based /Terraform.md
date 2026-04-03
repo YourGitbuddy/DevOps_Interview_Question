@@ -908,6 +908,9 @@ Always run terraform plan after import before ever running terraform apply — i
 
 </details>
 
+
+### Question 14. How to add manually created infra into Terraform state?
+
 ### Question 15. How to handle 1000+ changes in Terraform state?
 
 <details>
@@ -952,4 +955,5 @@ We used separate state files per module with remote backend in Azure Blob Storag
 State was backed up before every change.
 
 </details>
+
 
